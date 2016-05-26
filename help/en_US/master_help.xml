@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book [
+<!--Begin Entities-->
+<!ENTITY a54fcafda402e004100ebf9391ba0e134 SYSTEM "/home/harpreet/opencv/Scilab-IPT-master/help/en_US/blur.xml">
+<!ENTITY a6c29e6c584b58b0d88cca4a3654a1df4 SYSTEM "/home/harpreet/opencv/Scilab-IPT-master/help/en_US/canny.xml">
+<!ENTITY a160a8fefb2d18e2bcd4eeb5ba70168df SYSTEM "/home/harpreet/opencv/Scilab-IPT-master/help/en_US/cornerEigenValAndVecs.xml">
+<!ENTITY ae8e1a80cf1713a8aa64bf0495e5ac7d0 SYSTEM "/home/harpreet/opencv/Scilab-IPT-master/help/en_US/cornerHarris.xml">
+<!ENTITY a3ed53f84d3c47c019fe4d70c071d4ad9 SYSTEM "/home/harpreet/opencv/Scilab-IPT-master/help/en_US/filter2D.xml">
+<!ENTITY ae52e722a4632d1e01ef9a659318c4882 SYSTEM "/home/harpreet/opencv/Scilab-IPT-master/help/en_US/gaussianblur.xml">
+<!ENTITY a1c96791bfdb4a518471f5d67174cc0d8 SYSTEM "/home/harpreet/opencv/Scilab-IPT-master/help/en_US/getTextSize.xml">
+<!ENTITY a538d126e4e9ab9c4f628da761cde9bd6 SYSTEM "/home/harpreet/opencv/Scilab-IPT-master/help/en_US/houghlines.xml">
+<!ENTITY a1c4ab84907ab026d268cb6fd62439e8f SYSTEM "/home/harpreet/opencv/Scilab-IPT-master/help/en_US/houghlinesp.xml">
+<!ENTITY ab622ffef074358eb5f25f0a7873d2f26 SYSTEM "/home/harpreet/opencv/Scilab-IPT-master/help/en_US/im2double.xml">
+<!ENTITY aaffc56f5dabd07b66e193885cc315bd0 SYSTEM "/home/harpreet/opencv/Scilab-IPT-master/help/en_US/imcontrast.xml">
+<!ENTITY a8ac94e2e6ebf5e9f8fdedfc2d2daccc0 SYSTEM "/home/harpreet/opencv/Scilab-IPT-master/help/en_US/imcrop.xml">
+<!ENTITY abef2af0084cc9cde839a83a713a06f43 SYSTEM "/home/harpreet/opencv/Scilab-IPT-master/help/en_US/imread.xml">
+<!ENTITY a8c017fb382c194573f198aeecc83fa0a SYSTEM "/home/harpreet/opencv/Scilab-IPT-master/help/en_US/imresize.xml">
+<!ENTITY a90bbbebde1420e7380c8136fbcca84ac SYSTEM "/home/harpreet/opencv/Scilab-IPT-master/help/en_US/imsharpen.xml">
+<!ENTITY a3fc79a3e7fb6367422af8be4425d5099 SYSTEM "/home/harpreet/opencv/Scilab-IPT-master/help/en_US/imwrite.xml">
+<!ENTITY a0b8d16ddf0d652651c9036df48107145 SYSTEM "/home/harpreet/opencv/Scilab-IPT-master/help/en_US/montage.xml">
+<!ENTITY a0ae434dc323f47647d2bc0e217add2ee SYSTEM "/home/harpreet/opencv/Scilab-IPT-master/help/en_US/undistort.xml">
+<!--End Entities-->
+]>
+<book version="5.0-subset Scilab" xml:lang="en_US"
+      xmlns="http://docbook.org/ns/docbook"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xi="http://www.w3.org/2001/XInclude"
+      xmlns:svg="http://www.w3.org/2000/svg"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:html="http://www.w3.org/1999/xhtml"
+      xmlns:db="http://docbook.org/ns/docbook">
+  <info xml:id='image_processing_toolbox_manual'>
+    <title>Image Processing Toolbox</title>
+  </info>
+
+<part xml:id='section_e20796f75b089fa579ead49bd49585e6'>
+<title>Image Processing Toolbox</title>
+&a54fcafda402e004100ebf9391ba0e134;
+&a6c29e6c584b58b0d88cca4a3654a1df4;
+&a160a8fefb2d18e2bcd4eeb5ba70168df;
+&ae8e1a80cf1713a8aa64bf0495e5ac7d0;
+&a3ed53f84d3c47c019fe4d70c071d4ad9;
+&ae52e722a4632d1e01ef9a659318c4882;
+&a1c96791bfdb4a518471f5d67174cc0d8;
+&a538d126e4e9ab9c4f628da761cde9bd6;
+&a1c4ab84907ab026d268cb6fd62439e8f;
+&ab622ffef074358eb5f25f0a7873d2f26;
+&aaffc56f5dabd07b66e193885cc315bd0;
+&a8ac94e2e6ebf5e9f8fdedfc2d2daccc0;
+&abef2af0084cc9cde839a83a713a06f43;
+&a8c017fb382c194573f198aeecc83fa0a;
+&a90bbbebde1420e7380c8136fbcca84ac;
+&a3fc79a3e7fb6367422af8be4425d5099;
+&a0b8d16ddf0d652651c9036df48107145;
+&a0ae434dc323f47647d2bc0e217add2ee;
+</part>
+</book>
